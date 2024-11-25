@@ -1,0 +1,28 @@
+
+.swap{
+    max-width: 20px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leftOption{
+    margin-right: 20px;
+}
+.rightOption{
+    margin-left: 20px;
+}
+.swap:hover{
+    cursor: pointer;
+}
+.container0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    
+}
+.title{
+    margin-top: 20%;
+    text-align: center;
+}
